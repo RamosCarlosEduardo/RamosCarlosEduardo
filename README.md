@@ -1,4 +1,4 @@
-<img src="./assets/img/header.jpg" style="max-height: 450px; width: 100%;">
+<img src="./assets/img/header.jpg" height="450px" width="100%">
 
 <h1 align="center" style="font-size: 30px">Hey there <img src="./assets/img/hi.gif" width="30px">, I’m Carlos Eduardo Ramos!</h1>
 
