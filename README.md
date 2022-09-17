@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-size: 30px">Hey there <img src="./assets/img/hi.gif" width="30px">, I’m Carlos Eduardo Ramos!</h1>
 
-<p>I'm a Production Engineering, studying to be a Web Developer.</p>
+<p>I'm a Production Engineer, studying to be a Web Developer.</p>
 
 <p>Currently focused into learning: 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
