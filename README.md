@@ -19,5 +19,5 @@
 
 <hr>
 <div align="center" center;">
-<img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoscarloseduardo&layout=compact&langs_count=16&theme=dracula"/>
+<img height="200rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramoscarloseduardo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
